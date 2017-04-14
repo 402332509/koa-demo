@@ -10,8 +10,8 @@
         "koa",
         "async"
     ],
-    "author": "Michael Liao",
-    "license": "Apache-2.0",
+    "author": "Harry Liu",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/402332509/koa-demo.git"
